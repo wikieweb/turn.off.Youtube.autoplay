@@ -1,6 +1,6 @@
 # Turn off Youtube Autoplay
 
-[![turn off youtube autoplay](blue.png)](https://github.com/wikieweb/turn.off.Youtube.autoplay)
+[![turn off youtube autoplay](blue.png)](https://icncomputer.com/turn-off-youtube-autoplay/)
 
 
 The YouTube autoplay feature automatically starts playing a new video after you finish watching the current video. Autoplayed videos are related to your viewing history and are help you discover more content. Here's how to turn off autoplay if you don't want new videos to begin playing on their own.
